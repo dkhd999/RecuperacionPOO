@@ -1,0 +1,8 @@
+vista\FacturaVista$1.class
+modelo\ConexionBDD.class
+controlador\FacturaControlador.class
+com\mycompany\recuperacion\Recuperacion.class
+modelo\FacturaModelo.class
+vista\FacturaVista.class
+modelo\FacturaD.class
+modelo\DetalleFacturaModelo.class
